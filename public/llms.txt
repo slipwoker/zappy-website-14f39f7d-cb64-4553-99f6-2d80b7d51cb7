@@ -1,0 +1,107 @@
+# Pink cosmetic — Generative Engine Optimization Map
+
+> An online store specializing in eyelash serums, focused on beauty and cosmetics. The brand centers around lash growth, enhancement, and beauty care products, targeting customers interested in eye beauty treatments and lash transformation.
+
+---
+
+## Pages
+
+### בית
+https://pink-cosmetic-14f39f7d.zappy5.app
+חנות אונליין מובילה לסרומים איכותיים להצמחת ריסים. גלי פורמולות מתקדמות לטיפוח עיניים, שינוי מרהיב במראה הריסים ומארזי יוקרה ורודים. התחילי את המהפך שלך עוד היום!
+
+### פורמולה ויתרונות
+https://pink-cosmetic-14f39f7d.zappy5.app/formula-benefits
+היכנסי לעומק הפורמולה המנצחת שלנו להארכת וחיזוק ריסים. רכיבים פעילים, יתרונות קליניים וטיפוח יוקרתי בתיק קוסמטי ורוד של דיור. בואי לגלות איך זה עובד!
+
+### שינויים
+https://pink-cosmetic-14f39f7d.zappy5.app/transformations
+צפי בשינויים המדהימים שהשיגו לקוחותינו עם סרום הריסים שלנו. תמונות לפני ואחרי, תוצאות אמיתיות והשראה למהפך אישי. גם את יכולה להשיג את המראה המושלם!
+
+### צור קשר
+https://pink-cosmetic-14f39f7d.zappy5.app/contact
+יש לך שאלה על סרום הריסים או תיק קוסמטי ורוד בהיר? צרי איתנו קשר לייעוץ אישי, תמיכה בהזמנה וכל מה שצריך למסע טיפוח העיניים שלך. נשמח לשמוע ממך!
+
+### Products
+https://pink-cosmetic-14f39f7d.zappy5.app/products
+המוצרים שלנו - Pink cosmetic
+
+### Cart
+https://pink-cosmetic-14f39f7d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://pink-cosmetic-14f39f7d.zappy5.app/checkout
+תשלום
+
+### Login
+https://pink-cosmetic-14f39f7d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://pink-cosmetic-14f39f7d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://pink-cosmetic-14f39f7d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://pink-cosmetic-14f39f7d.zappy5.app/product/:slug
+פרטי המוצר - Pink cosmetic
+
+### Category
+https://pink-cosmetic-14f39f7d.zappy5.app/category/:slug
+מוצרים - Pink cosmetic
+
+### תודה רבה - ההודעה התקבלה | Pink Cosmetic
+https://pink-cosmetic-14f39f7d.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה שלך התקבלה בהצלחה ונחזור אליך בהקדם. אנו מעריכים את בחירתך במוצרי Pink Cosmetic, כולל קולקציית תיקי האיפור הוורודים שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://pink-cosmetic-14f39f7d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pink-cosmetic-14f39f7d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pink-cosmetic-14f39f7d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pink cosmetic
+An online store specializing in eyelash serums, focused on beauty and cosmetics. The brand centers around lash growth, enhancement, and beauty care products, targeting customers interested in eye beauty treatments and lash transformation.
+
+## Services/Products
+- סרום לריסים
+
+## Target Audience
+- חובבות יופי צעירות
+- נשים מקצועיות
+- בלוגריות יופי
+
+## Industry
+Beauty & Cosmetics E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://pink-cosmetic-14f39f7d.zappy5.app/sitemap.xml
+- Robots: https://pink-cosmetic-14f39f7d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pink-cosmetic-14f39f7d.zappy5.app/llms-full.txt
+- Products (JSON): https://pink-cosmetic-14f39f7d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pink-cosmetic-14f39f7d.zappy5.app/product-feed.xml
